@@ -1,0 +1,23 @@
+.c1 {
+  display: inline;
+  text-align: center;
+}
+
+.c1 {
+  width: 100%;
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-cd {
+  width: 80%;
+  height: 190px;
+  margin: 10px;
+  padding: 5px;
+  border-radius: 25px;
+}

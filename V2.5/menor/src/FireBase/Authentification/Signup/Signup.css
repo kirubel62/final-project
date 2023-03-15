@@ -1,0 +1,46 @@
+.signincontainer {
+  /* master div */
+
+  background: yellow;
+  width: 100%;
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.signincontainer_c1 {
+  /* form div */
+
+  width: 80%;
+  height: 190px;
+  margin: 10px;
+  padding: 5px;
+  background: blue;
+  color: white;
+  border-radius: 25px;
+}
+
+.signincontainer_c2 {
+  /* form div */
+}
+
+.ip {
+  /* inputs(email , password) */
+  border-radius: 10px;
+}
+
+.btn1 {
+  /* button1 */
+  border-radius: 15px;
+  width: 100px;
+}
+.btn1:hover {
+  background-color: aqua;
+}
+
+.p1 {
+}

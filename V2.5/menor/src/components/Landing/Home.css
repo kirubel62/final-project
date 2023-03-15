@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.content {
+  height: 100vh;
+  width: 100vh;
+}
+
+.sub-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px 15px;
+  transform: translate(-50%, -50%);
+  background: gray;
+  border-radius: 20px;
+  text-align: center;
+  align-content: center;
+  opacity: 0.8;
+}
+
+.sub_bc {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  padding: 5px 15px;
+  font-size: 100;
+  transform: translate(-50%, -50%);
+  background: white;
+  opacity: 0.7;
+  border-radius: 20px;
+  text-align: center;
+  font-style: bold;
+  align-content: center;
+}
+
+.datavisualization {
+  background-color: white;
+}

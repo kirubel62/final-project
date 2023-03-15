@@ -1,0 +1,29 @@
+.signincontainer {
+  /* master div */
+  background: yellow;
+  width: 100%;
+  margin: 0px;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.childdiv_c1 {
+  /* form div */
+  width: 80%;
+   height: 190px;
+   margin: 10px;
+   padding: 5px;
+   background: blue;
+   color: white;
+   border-radius: 25px;
+}
+
+.childdiv_c1_c1 {
+  /* form div */
+  display: inline;
+  margin: auto;
+}
